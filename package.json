@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "glob": "^7.2.0",
+    "interaction": "^0.0.1",
+    "node": "^17.7.2",
+    "node-cron": "^2.0.0",
+    "node-schedule": "^2.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "name": "covid-19-information-bot",
+  "version": "1.0.0",
+  "main": "./Structures/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
